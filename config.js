@@ -13,7 +13,7 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'PUTRA'
+global.ownername = 'PUTRA SLEBEW'
 global.Anticall = false
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
@@ -21,21 +21,21 @@ global.available = false //status online (online)
 // Other
 global.owner = ['6285691240122','628985152274']
 global.premium = ['6285691240122']
-global.packname = 'PUTRA'
+global.packname = 'PUTRA SLEBEW'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '✓ Success',
-    admin: 'Fitur Khusus Admin Group!',
+    success: '✓ UDAH NGAV',
+    admin: 'Cuman Buat Admin🗿!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner',
+    owner: 'Lu Bukan Owner🗿',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
+    wait: 'Tunggu🗿🙏...',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 global.limitawal = {
